@@ -14,11 +14,11 @@
 
 Code Location: cs50_BREAKOUT
 <p>MULTIBALL POWER UP --> PLAYSTATE: Line 35, 44-45, 91-103, 275-285 changes -> Line 130, 134, 158, 341</p>
-<p>                   --> VICTORYSTATE: Line 32-33,54 changes -> Line 130, 134, 158, 341</p>
+                   <p>--> VICTORYSTATE: Line 32-33,54 changes -> Line 130, 134, 158, 341</p>
 
 <p>PADDLE SHRINK AND GROW --> PLAYSTATE: Line 367-390, 195-204, 308</p>
 
 <p>LOCKBRICK and KEY POWER UP --> LEVELMAKER: Line 118-122</p>
-<p>                           --> BRICK: Line 56, 95, 100-116, 181</p>
-<p>                           --> PLAYSTATE: Line 56, 105-109, 163-182, 181</p>
+                           <p>--> BRICK: Line 56, 95, 100-116, 181</p>
+                           <p>--> PLAYSTATE: Line 56, 105-109, 163-182, 181</p>
  
